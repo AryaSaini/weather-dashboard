@@ -1,0 +1,19 @@
+
+
+.forecast{
+    border-style: solid;
+    margin: 25px;
+    background-color: grey;
+}
+
+.futureForecast{
+    border-style: solid;
+    margin: 25px;
+    background-color: grey;
+}
+
+h2 {
+    text-align: center;
+}
+
+
